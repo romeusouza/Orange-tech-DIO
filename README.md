@@ -6,10 +6,10 @@ Link para acesso ao Bootcamp: https://web.dio.me/track/orange-tech
 
 Atividades:
 
-    Cursos: Aulas em vídeo curtas e objetivas que apresentam um conteúdo por vez, facilitando o aprendizado no seu ritmo. Cada curso traz explicações práticas e uma avaliação ao final para confirmar o que você aprendeu.
+* Cursos: Aulas em vídeo curtas e objetivas que apresentam um conteúdo por vez, facilitando o aprendizado no seu ritmo. Cada curso traz explicações práticas e uma avaliação ao final para confirmar o que você aprendeu.
 
-    Mentorias (Live): As mentorias oferecem encontros ao vivo com especialistas, onde você pode aprofundar o entendimento dos temas do bootcamp, tirar dúvidas e discutir aplicações práticas. São momentos para trocar experiências, receber orientação direta e acelerar sua evolução com quem já atua no mercado.
+* Mentorias (Live): As mentorias oferecem encontros ao vivo com especialistas, onde você pode aprofundar o entendimento dos temas do bootcamp, tirar dúvidas e discutir aplicações práticas. São momentos para trocar experiências, receber orientação direta e acelerar sua evolução com quem já atua no mercado.
 
-    Desafio de Código: Desafios práticos de programação para você aplicar o que aprendeu nos cursos, resolvendo problemas reais e desenvolvendo seu raciocínio lógico e suas habilidades técnicas.
+* Desafio de Código: Desafios práticos de programação para você aplicar o que aprendeu nos cursos, resolvendo problemas reais e desenvolvendo seu raciocínio lógico e suas habilidades técnicas.
 
-    Desafio de Projeto: Projetos completos em que você reúne tudo o que aprendeu em diferentes conteúdos para resolver um problema real, criando uma entrega final que pode fazer parte do seu portfólio.
+* Desafio de Projeto: Projetos completos em que você reúne tudo o que aprendeu em diferentes conteúdos para resolver um problema real, criando uma entrega final que pode fazer parte do seu portfólio.
